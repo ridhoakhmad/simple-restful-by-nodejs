@@ -1,0 +1,14 @@
+{
+  "result": [
+    {
+      "id_movie": "1",
+      "movie_title": "Dunkrik",
+      "movie_rate": "8"
+    },
+    {
+      "id_movie": "2",
+      "movie_title": "The Dark Knight Rises",
+      "movie_rate": "9"
+    }
+  ]
+}
